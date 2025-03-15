@@ -1,0 +1,31 @@
+﻿title: Start
+tags:
+---
+Narrator: 5 decades after the great scourge,
+Narrator: In the Midvane, heart of the Vabalands
+Narrator: Was a boy, now become man.
+
+Kairon: My name is Kairon
+Kairon: Warrior prince of the Vale
+Kairon: Son to a murdered king
+Kairon: Heir to a stolen throne
+Kairon: I will have my revenge. In this world, not the next.
+
+Narrator: This is a choice format
+    ->Oh! Yeah. I know
+        Narrator: You're in Unity!
+            -> Oh.
+                <<jump Oh>>
+            -> How did I get here?
+                <<jump Unity>>
+===
+
+title: Oh
+---
+Narrator: Yeah, fun, right?
+===
+
+title: Unity
+---
+Narrator: Someone read the Beginner's Guide!
+===
